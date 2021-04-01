@@ -9,7 +9,7 @@ Created on Wed Jan 13 17:03:10 2021
 """
 Created on Tue Jun 23 12:18:27 2020
 
-@author: ONS1KOR
+
 """
 
 from tensorflow.keras.models import Sequential
