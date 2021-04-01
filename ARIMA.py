@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 13 13:53:21 2021
 
-@author: ONS1KOR
+
 """
 from pmdarima import auto_arima
 import pmdarima
@@ -18,7 +18,7 @@ from numpy import array
 
 df=pd.DataFrame()
 text_data=[]
-train=pd.read_excel(r'C:\Users\ons1kor\Desktop\Forecast\Forecast.xlsx')
+train=pd.read_excel('Forecast.xlsx')
 q=list(train['Value'])
 out_seq = array([q[i] for i in range(len(q))])
 q=out_seq.tolist()
