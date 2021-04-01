@@ -2,7 +2,7 @@
 """
 Created on Wed Jan 13 17:03:10 2021
 
-@author: ONS1KOR
+
 """
 
 # -*- coding: utf-8 -*-
@@ -21,7 +21,7 @@ import pandas as pd
 from numpy import array
 df=pd.DataFrame()
 text_data=[]
-train=pd.read_excel(r'C:\Users\ons1kor\Desktop\Forecast\Forecast4.xlsx')
+train=pd.read_excel('Forecast4.xlsx')
 q=list(train['Value'])
 
 
