@@ -7,3 +7,4 @@ Seasonality not known, only values are available.
 
 Accuracy=The accuracy will be estimated by using the Overall Weighted Average (OWA) of two accuracy measures: a) the Mean Absolut Scaled Error (MASE), and b) the Symmetric Mean Absolut Percentage Error (sMAPE).
 
+League Ended Rank: 29/93
